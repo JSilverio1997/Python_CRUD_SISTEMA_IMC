@@ -1,0 +1,130 @@
+ 	 	 	 Lista de Dados 
+________________________________________________________________________________
+User ID: 4
+Nome: Marcos 
+Peso: 87.00 
+Altura: 1.83 
+IMC: 25.98 
+Categoria: Acima Do Peso. 
+________________________________________________________________________________
+User ID: 5
+Nome: Edcarlos 
+Peso: 82.00 
+Altura: 1.78 
+IMC: 25.88 
+Categoria: Acima Do Peso. 
+________________________________________________________________________________
+User ID: 10
+Nome: Joao 
+Peso: 76.00 
+Altura: 1.78 
+IMC: 23.99 
+Categoria: com o Peso ideal. 
+________________________________________________________________________________
+User ID: 12
+Nome: Teste5 
+Peso: 12.00 
+Altura: 1.4 
+IMC: 6.12 
+Categoria:  Muito Abaixo Do Peso. 
+________________________________________________________________________________
+User ID: 13
+Nome: Teste 6 
+Peso: 12.00 
+Altura: 1.0 
+IMC: 12.0 
+Categoria:  Muito Abaixo Do Peso. 
+________________________________________________________________________________
+User ID: 14
+Nome: Mauricio 
+Peso: 87.00 
+Altura: 1.98 
+IMC: 22.19 
+Categoria: Com O Peso Ideal. 
+________________________________________________________________________________
+User ID: 17
+Nome: Alice 
+Peso: 62.00 
+Altura: 1.63 
+IMC: 23.34 
+Categoria: Com O Peso Ideal. 
+________________________________________________________________________________
+User ID: 20
+Nome: Milena 
+Peso: 51.20 
+Altura: 1.55 
+IMC: 21.31 
+Categoria: Com O Peso Ideal. 
+________________________________________________________________________________
+User ID: 21
+Nome: Robert 
+Peso: 87.00 
+Altura: 1.95 
+IMC: 22.88 
+Categoria: Com O Peso Ideal. 
+________________________________________________________________________________
+User ID: 22
+Nome: Lucas Dias 
+Peso: 89.00 
+Altura: 1.91 
+IMC: 24.4 
+Categoria: Com O Peso Ideal. 
+________________________________________________________________________________
+User ID: 24
+Nome: Dias Mendes 
+Peso: 90.00 
+Altura: 1.98 
+IMC: 22.96 
+Categoria: Com O Peso Ideal. 
+________________________________________________________________________________
+User ID: 26
+Nome: Margarete 
+Peso: 62.00 
+Altura: 1.6 
+IMC: 24.22 
+Categoria: Com O Peso Ideal. 
+________________________________________________________________________________
+User ID: 32
+Nome: Thiaga 
+Peso: 64.00 
+Altura: 1.64 
+IMC: 23.8 
+Categoria: com o Peso ideal. 
+________________________________________________________________________________
+User ID: 33
+Nome: Aaa 
+Peso: 62.50 
+Altura: 1.77 
+IMC: 19.95 
+Categoria: Com O Peso Ideal. 
+________________________________________________________________________________
+User ID: 34
+Nome: Jonatas 
+Peso: 62.00 
+Altura: 1.82 
+IMC: 18.72 
+Categoria: Com O Peso Ideal. 
+________________________________________________________________________________
+User ID: 35
+Nome: Luciano 
+Peso: 92.00 
+Altura: 1.94 
+IMC: 24.44 
+Categoria: com o Peso ideal. 
+________________________________________________________________________________
+User ID: 36
+Nome: Marcelo Jean 
+Peso: 82.00 
+Altura: 1.8 
+IMC: 25.31 
+Categoria: Acima Do Peso. 
+________________________________________________________________________________
+User ID: 37
+Nome: Jean 
+Peso: 82.00 
+Altura: 1.98 
+IMC: 20.92 
+Categoria: Com O Peso Ideal. 
+________________________________________________________________________________
+Quantidade de Registros: 18 
+________________________________________________________________________________
